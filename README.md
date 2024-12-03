@@ -19,4 +19,5 @@ Simply run the binary and specify the target URL to begin web scraping.
 
 ## License
 
-This project is licensed under a private license. All rights reserved.
+This project is licensed under the Creative Commons Attribution-NoDerivs 4.0 International (CC BY-ND 4.0). You are free to use and execute the software, but you cannot modify, distribute, or create derivative works based on it.
+
