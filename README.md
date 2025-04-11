@@ -1,6 +1,6 @@
-# Arachneum - The Ultimate Spider Web
+# Arakneum - The Ultimate Spider Web
 
-Arachneum is the most powerful and sophisticated web spider ever created. It is designed to collect data with unmatched efficiency and speed.
+Arakneum is the most powerful and sophisticated web spider ever created. It is designed to collect data with unmatched efficiency and speed.
 
 **Work in Progress**  
 This project is currently under development. The final version will include the binary for use.
